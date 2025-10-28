@@ -1,0 +1,60 @@
+2025-04-22 01:52:31 - Checkout process started for user_id: 4
+2025-04-22 01:52:31 - Transaction started for user_id: 4
+2025-04-22 01:52:31 - Cart check passed for user_id: 4 (1 items)
+2025-04-22 01:52:31 - Order total calculated for user_id: 4, Total: 235.00
+2025-04-22 01:52:31 - Order created for user_id: 4, Order ID: 23
+2025-04-22 01:52:31 - Copied 1 items to order_details for Order ID: 23
+2025-04-22 01:52:31 - Cart cleared for user_id: 4
+2025-04-22 01:52:31 - Transaction committed successfully for Order ID: 23
+2025-04-22 01:52:31 - Checkout process finished for user_id: 4. Success: Yes
+2025-04-22 02:05:50 - Checkout process started for user_id: 4
+2025-04-22 02:05:50 - Transaction started for user_id: 4
+2025-04-22 02:05:50 - Cart check passed for user_id: 4 (2 items)
+2025-04-22 02:05:50 - Order total calculated for user_id: 4, Total: 420.00
+2025-04-22 02:05:50 - Order created for user_id: 4, Order ID: 24
+2025-04-22 02:05:50 - Copied 2 items to order_details for Order ID: 24
+2025-04-22 02:05:50 - Cart cleared for user_id: 4
+2025-04-22 02:05:50 - Transaction committed successfully for Order ID: 24
+2025-04-22 02:05:50 - Checkout process finished for user_id: 4. Success: Yes
+2025-04-22 02:17:10 - Checkout process started for user_id: 4
+2025-04-22 02:17:10 - Transaction started for user_id: 4
+2025-04-22 02:17:10 - Cart check passed for user_id: 4 (1 items)
+2025-04-22 02:17:10 - Order total calculated for user_id: 4, Total: 210.00
+2025-04-22 02:17:10 - Order created for user_id: 4, Order ID: 25
+2025-04-22 02:17:10 - Copied 1 items to order_details for Order ID: 25
+2025-04-22 02:17:10 - Cart cleared for user_id: 4
+2025-04-22 02:17:10 - Transaction committed successfully for Order ID: 25
+2025-04-22 02:17:10 - Checkout process finished for user_id: 4. Success: Yes
+2025-04-22 02:25:55 - Checkout process started for user_id: 4
+2025-04-22 02:25:55 - Transaction started for user_id: 4
+2025-04-22 02:25:55 - Cart check passed for user_id: 4 (1 items)
+2025-04-22 02:25:55 - Order total calculated for user_id: 4, Total: 235.00
+2025-04-22 02:25:55 - Order created for user_id: 4, Order ID: 26
+2025-04-22 02:25:55 - Copied 1 items to order_details for Order ID: 26
+2025-04-22 02:25:55 - Cart cleared for user_id: 4
+2025-04-22 02:25:55 - Transaction committed successfully for Order ID: 26
+2025-04-22 02:25:55 - Checkout process finished for user_id: 4. Success: Yes
+2025-04-22 03:00:07 - Checkout process started for user_id: 4
+2025-04-22 03:00:07 - Transaction started for user_id: 4
+2025-04-22 03:00:07 - Cart check passed for user_id: 4 (1 items)
+2025-04-22 03:00:07 - Order total calculated for user_id: 4, Total: 200.00
+2025-04-22 03:00:07 - Order created for user_id: 4, Order ID: 27
+2025-04-22 03:00:07 - Copied 1 items to order_details for Order ID: 27
+2025-04-22 03:00:07 - Cart cleared for user_id: 4
+2025-04-22 03:00:07 - Transaction committed successfully for Order ID: 27
+2025-04-22 03:00:07 - Checkout process finished for user_id: 4. Success: Yes
+2025-04-22 15:22:45 - Checkout process started for user_id: 4
+2025-04-22 15:22:45 - Transaction started for user_id: 4
+2025-04-22 15:22:45 - Cart check passed for user_id: 4 (1 items)
+2025-04-22 15:22:45 - Order total calculated for user_id: 4, Total: 235.00
+2025-04-22 15:22:45 - PDOException for user_id: 4. Transaction rolled back. Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+2025-04-22 15:22:45 - Checkout process finished for user_id: 4. Success: No
+2025-04-22 15:31:58 - Checkout process started for user_id: 4
+2025-04-22 15:31:58 - Transaction started for user_id: 4
+2025-04-22 15:31:58 - Cart check passed for user_id: 4 (1 items)
+2025-04-22 15:31:58 - Order total calculated for user_id: 4, Total: 235.00
+2025-04-22 15:31:58 - Order created for user_id: 4, Order ID: 28
+2025-04-22 15:31:58 - Copied 1 items to order_details for Order ID: 28
+2025-04-22 15:31:58 - Cart cleared for user_id: 4
+2025-04-22 15:31:58 - Transaction committed successfully for Order ID: 28
+2025-04-22 15:31:58 - Checkout process finished for user_id: 4. Success: Yes
